@@ -1,0 +1,9 @@
+Building DogeJunior
+
+See doc/readme-qt.rst for instructions on building DogeJunior QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DogeJunior.
+
+See doc/build-*.txt for instructions on building Testcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DogeJunior.
